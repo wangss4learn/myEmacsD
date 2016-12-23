@@ -1,4 +1,4 @@
-
+ 
 ;; =============================================================================================
 ;;设置中英文字体
 ;; Setting English Font
@@ -22,6 +22,7 @@
 ;;设置文本格式为utf-8,完美支持中文
 (set-language-environment 'utf-8)
 (set-locale-environment "UTF-8")
+
 
 ;;设置启动时界面位置与大小
 ;;(set-frame-position (selected-frame) 200 100)
