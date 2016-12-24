@@ -80,7 +80,11 @@
 	 ((:keywords "async")
 	  (:url . "http://elpa.gnu.org/packages/async.html"))])
  (auctex .
+<<<<<<< HEAD
 	 [(11 89 8)
+=======
+	 [(11 89 7)
+>>>>>>> e74602988b1d787246719a0a4eb3112621a501d2
 	  nil "Integrated environment for *TeX*" tar
 	  ((:url . "http://www.gnu.org/software/auctex/"))])
  (aumix-mode .
@@ -291,7 +295,11 @@
 	     ((:url . "http://elpa.gnu.org/packages/ediprolog.html")
 	      (:keywords "languages" "processes"))])
  (el-search .
+<<<<<<< HEAD
 	    [(1 2 1)
+=======
+	    [(1 1 2)
+>>>>>>> e74602988b1d787246719a0a4eb3112621a501d2
 	     ((emacs
 	       (25))
 	      (stream
@@ -342,9 +350,15 @@
 	       ((:keywords "calendar")
 		(:url . "http://elpa.gnu.org/packages/excorporate.html"))])
  (exwm .
+<<<<<<< HEAD
        [(0 12)
 	((xelb
 	  (0 12)))
+=======
+       [(0 11)
+	((xelb
+	  (0 11)))
+>>>>>>> e74602988b1d787246719a0a4eb3112621a501d2
 	"Emacs X Window Manager" tar
 	((:keywords "unix")
 	 (:url . "https://github.com/ch11ng/exwm"))])
@@ -472,6 +486,7 @@
 	    "Improved JavaScript editing mode" tar
 	    ((:keywords "languages" "javascript")
 	     (:url . "https://github.com/mooz/js2-mode/"))])
+<<<<<<< HEAD
  (json-mode .
 	    [(0 1)
 	     ((emacs
@@ -479,6 +494,8 @@
 	     "Major mode for editing JSON files" single
 	     ((:url . "http://elpa.gnu.org/packages/json-mode.html")
 	      (:keywords "data"))])
+=======
+>>>>>>> e74602988b1d787246719a0a4eb3112621a501d2
  (jumpc .
 	[(3 0)
 	 nil "jump to previous insertion points" single
@@ -645,7 +662,11 @@
 	     ((:url . "https://github.com/michael-heerdegen/on-screen.el")
 	      (:keywords "convenience"))])
  (org .
+<<<<<<< HEAD
       [(20161214)
+=======
+      [(20161118)
+>>>>>>> e74602988b1d787246719a0a4eb3112621a501d2
        nil "Outline-based notes management and organizer" tar nil])
  (osc .
       [(0 1)
@@ -979,7 +1000,11 @@
 	 ((:url . "http://elpa.gnu.org/packages/xclip.html")
 	  (:keywords "convenience" "tools"))])
  (xelb .
+<<<<<<< HEAD
        [(0 12)
+=======
+       [(0 11)
+>>>>>>> e74602988b1d787246719a0a4eb3112621a501d2
 	((emacs
 	  (24 4))
 	 (cl-generic
